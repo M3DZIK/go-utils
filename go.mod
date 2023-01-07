@@ -1,6 +1,6 @@
 module github.com/MedzikUser/go-utils
 
-go 1.16
+go 1.19
 
 require (
 	github.com/MedzikUser/go-github-selfupdate v1.3.1
